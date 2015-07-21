@@ -1,3 +1,3 @@
 # LFOS-Hourly
-Hourly automated build of LFOS
-*DO NOT MODIFY THIS REPOSITORY MANUALLY*
+Hourly automated build of LFOS (https://github.com/lfunion/lfos)     
+***DO NOT MODIFY THIS REPOSITORY MANUALLY***
