@@ -1,0 +1,31 @@
+make[1]: Entering directory '/home/buildbot/git/lfos/iso'
+make[2]: Entering directory '/home/buildbot/git/lfos'
+cd kernel; make
+make[3]: Entering directory '/home/buildbot/git/lfos/kernel'
+Cleaning ...
+make[4]: Entering directory '/home/buildbot/git/lfos/kernel'
+rm -rf build/
+make[4]: Leaving directory '/home/buildbot/git/lfos/kernel'
+Assembling bootloader ...
+Assembling segments
+Assembling exception handlers
+Compiling GDT
+Compiling IDT
+Compiling C common exception handler
+Compiling outb
+Compiling inb
+Compiling cpu
+Compiling RTC driver
+Compiling VGA driver ...
+Compiling serial driver
+Compiling keyboard driver ...
+Compiling KIO
+Compiling ktime
+Compiling process
+Compiling kernel ...
+Linking ...
+make[3]: Leaving directory '/home/buildbot/git/lfos/kernel'
+make[2]: Leaving directory '/home/buildbot/git/lfos'
+Copying kernel ...
+Creating iso image ...
+make[1]: Leaving directory '/home/buildbot/git/lfos/iso'
